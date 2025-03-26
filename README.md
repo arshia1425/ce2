@@ -1,1 +1,1 @@
-this is readme file 
+SCM evaluation 2 .we use git clone 
