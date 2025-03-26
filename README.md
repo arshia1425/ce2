@@ -1,1 +1,1 @@
-# ce2
+SCM evaluation 2 .we use git clone
