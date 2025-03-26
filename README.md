@@ -1,1 +1,1 @@
-SCM evaluation 2 .we use git clone 
+read me file
